@@ -1,0 +1,9 @@
+{
+    "ALB_DNS_NAME": "",
+    "ALB_LISTENER": "80",
+    "CW_METRIC_FLAG_IP_COUNT": "True",
+    "INVOCATIONS_BEFORE_DEREGISTRATION": "3",
+    "MAX_LOOKUP_PER_INVOCATION": "50",
+    "NLB_TG_ARN": "",
+    "S3_BUCKET": ""
+}
