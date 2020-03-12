@@ -229,7 +229,7 @@
             }
           }
         }, 
-        "Handler": "populate_NLB_TG_with_ALB.lambda_handler", 
+        "Handler": "nlb-lambda.lambda_handler", 
         "Role": {
           "Fn::GetAtt": [
             "LambdaIAMRole", 

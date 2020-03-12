@@ -13,7 +13,7 @@ Uses Lambda Layer to leverage awscli in py3 environment
 ```
 stack_name="py3"
 nlb_lambda_bucket_name=$(echo "${stack_name}-nlblambda-code" | tr '[:upper:]' '[:lower:]')
-git clone https://github.com/ilyabezdelev/aws-cli-lambda.git
+git clone https://github.com/alex4108/aws-cli-lambda
 cd aws-cli-lambda/
 ```
 ### you may need to run the "linux" shell script dependent on your OS.
